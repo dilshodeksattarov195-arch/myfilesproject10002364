@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterppdate",
+        "uuid": 20079816,
+        "checksum": "zbrlw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
